@@ -45,7 +45,7 @@ screen -S fastapi
 在合适的目录下
 
 ```
-git clone https://github.com:myitmx/chaoxing_sign.git
+git clone https://github.com/myitmx/chaoxing_sign.git
 ```
 
 ![2020/04/15/7a5e50415034311.png](http://cdn.z2blog.com/2020/04/15/7a5e50415034311.png)
